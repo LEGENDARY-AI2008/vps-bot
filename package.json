@@ -1,0 +1,11 @@
+{
+  "name": "legendary-vps-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@aws-sdk/client-ec2": "^3.600.0",
+    "pg": "^8.11.0"
+  }
+}
