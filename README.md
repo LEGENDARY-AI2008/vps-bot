@@ -1,5 +1,7 @@
 # Legendary VPS Bot
 
+
+
 Telegram bot for selling 10-day VPS with credits, manual top-up approval, backups to admins, and SOS support.
 
 ## Environment variables (set in Vercel → Settings → Environment Variables)
